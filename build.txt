@@ -1,0 +1,3 @@
+displayName = The Ballin' Bagel Mod
+author = Dawdy
+version = 0.69
