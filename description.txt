@@ -1,0 +1,13 @@
+Welcome to the Ballin' Bagel Mod:
+
+This mod implements a single item into the game
+
+It is craftable at a furnace with:
+	7 Hay
+	1 Grass Seed
+
+It's literally a throwable bagel
+
+That's about it
+
+-Dawdy
